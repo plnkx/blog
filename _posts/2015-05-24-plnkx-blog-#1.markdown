@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "plnkx blog #1"
+date:  Sun May 24 14:58:01 PDT 2015
+---
+
+
+
+# What is plnkx?
+
+The word 'plnkx' is a rough contraction of *internet place link*.
+There is also a plnkx Android app, and a
+[plnkx.com](http://www.plnkx.com) website.
+
+# What's an internet place link?
+
+An internet place link is a location-based, digital *post-anywhere-note*.
+
+
+## Digital
+
+*Digital* means it lives on the web, just like your email.
+
+## Location-based
+
+*Location-based* means it's tied to a specific location, for example, your home address -- except that instead of using your street address to identify the location it uses your phone's GPS coordinates.
+
+## Post-Anywhere-Notes
+
+Your message or note is like a digital cairn that can be plopped down anywhere there are GPS coordinates: outside your house, on the Grand Coulee dam, at your favorite restaurant, on the White House lawn. 
+
+
+The plnkx app is currently in BETA release.

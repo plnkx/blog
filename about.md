@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+**plnkx** is a self-funded, internet-startup based in Seattle, WA.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The plnkx app was released in April 2015, available for android
+mobile phones at the [Google play store](https://play.google.com/store/search?q=plnkx) . Also
+the my.plnkx.com site will be available for those who don't own an
+android phone, and for those businesses and individuals who prefer to
+work from a web browser.
+
+Questions? Send us an email:
+
+steve.isaacson@plnkx.com
