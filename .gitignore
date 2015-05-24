@@ -1,2 +1,4 @@
 .si
 .run
+_site
+.sass-cache
