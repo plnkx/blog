@@ -1,0 +1,15 @@
+# Site settings
+title: Your awesome title
+email: steve.isaacson@plnkx.com
+description: > # this means to ignore newlines until "baseurl:"
+  blog subdomain for plnkx.com
+  Plnkx let's you read and create location-based, digital
+  post-anywhere-notes. Plnkx also makes it possible for bloggers and
+  businesses to create internet place links."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.plnkx.com" # the base hostname & protocol for your site
+twitter_username: plnkxtweets
+github_username:  plnkx
+
+# Build settings
+markdown: kramdown
