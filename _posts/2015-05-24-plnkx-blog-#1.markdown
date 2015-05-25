@@ -6,7 +6,7 @@ date:  Sun May 24 14:58:01 PDT 2015
 
 
 
-![plnkx logo](/images/plnkx_logo_sm.png){: .center-image }
+![plnkx logo](/images/plnkx_web_logo.png){: .center-image }
 
 # What is plnkx?
 
