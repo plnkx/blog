@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "plnkx blog #1"
+title:  "What is plnkx?"
 date:  Sun May 24 14:58:01 PDT 2015
 ---
 
