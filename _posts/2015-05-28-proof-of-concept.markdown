@@ -16,8 +16,7 @@ course.
 
 One use-case for plnkx is what I call the '[Rick
 Steves](http://www.ricksteves.com/about-rick)'. Rick Steves is a
-guidebook author, travel TV host, and respected authority on European
-travel.
+European travel expert, guidebook author, and TV travel host.
 
 This use-case is related to travel.
 
@@ -54,8 +53,8 @@ That's what I wanted to find out.
 # The Test
 
 So the test was this. Sit in Seattle, post a plnkx note to Spain, and
-have some one stumble upon it, real-time, in Spain. If it works, then
-that's timely information at your fingertips.
+wait for someone stumble upon it, real-time, in Spain. If it works,
+then that's timely information at your fingertips.
 
 
 # The Note
@@ -71,27 +70,26 @@ France."
 
 I was trying to be funny.
 
-And this truly would be a test. Why? Because I had noticed a problem the
-day before.
+And this truly would be a test. Why? Because the day before I noticed
+a problem.
 
 
 # A Problem?
 
 While in France, one of the crew posted a note. But when I clicked on
-the coordinates referenced in the note, it took me to Heathrow
-Airport, back in London. The message didn't match the
-location.
+the coordinates referenced in the note, it took me back to their
+airport in London. That is, the message didn't match the location.
 
 Uh oh.
 
 Does GPS work the same way in Europe? Are the coordinates getting
-cached in the app? No one has been to Spain with plnkx before.
-How would we know if it works?
+cached in the app? No one has been to Spain with plnkx before. Does
+it work at all? How would we know if it works?
 
 # The Proof
 
-We'd know by trying it out. So I posted [the
-note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6).
+We'd know by trying it out. So I posted
+[a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6).
 And waited.
 
 Two days later, half-way around the world, they arrived at the hotel.
