@@ -19,6 +19,8 @@ Steves](http://www.ricksteves.com/about-rick)'. Rick Steves is a
 guidebook author, travel TV host, and respected authority on European
 travel.
 
+This use-case is related to travel.
+
 <img src='http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg/157px-Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg' style='float: right; padding: 1em;' />
 
 There are obvious examples of location-specfic information that would
@@ -26,13 +28,18 @@ be helpful to travelers. Imagine, for example, approaching a
 gallery or museum and using the plnkx app to find out where you can
 park or how late they're open.
 
-Or maybe you're standing at the
-base of the Statue of Liberty, looking up at her crown. Did you know
-the seven spikes on her crown represent the seven oceans and the
-seven continents of the world? The idea was to represent the
-universal concept of liberty.
+Or maybe you're standing at the foot of the Statue of Liberty,
+looking up at her crown. Did you know the seven spikes on her crown
+represent the seven oceans and the seven continents of the world? The
+idea was to represent the universal concept of liberty.
 
-So yes, there are lots of uses.
+Or maybe you walk down to Pike Place Market in Seattle and want to
+know what's going on right there right now. Or maybe you're wondering
+if the pick-pockets are on the loose in Bangkok? Or if there are fellow
+travelers from your country also visiting in the area, or staying at
+hotel, or sitting in the bar!
+
+So yes, there are lots of use-cases for travel.
 
 But what about posting a note *to* Spain *from* Seattle?
 
@@ -47,7 +54,7 @@ That's what I wanted to find out.
 # The Test
 
 So the test was this. Sit in Seattle, post a plnkx note to Spain, and
-have some one stumble upon it, real-time, in Span. If it works, then
+have some one stumble upon it, real-time, in Spain. If it works, then
 that's timely information at your fingertips.
 
 
@@ -58,30 +65,43 @@ days. So I googled the hotel, [figured
 out](http://plnkx.com/wv/find_coordinates_of_location.html) the GPS
 coordinates, and looked for something interesting to say.
 
-I found this on Wikipedia: "The city is particularly attractive
-to retired people, many of whom come to settle there from other areas
-across France."
+This is what I found: "The city is particularly attractive to retired
+people, many of whom come to settle there from other areas across
+France."
 
 I was trying to be funny.
 
-And this was truly a test. How so? One of the posts said they were in
-France, but when I clicked on the coordinates in the note, it took me
-back to London Heathrow Airport. Does GPS not work in Spain? Are the
-coordinates getting cached? No one has ever been to Spain with plnkx
-before. How would we know?
+And this truly would be a test. Why? Because I had noticed a problem the
+day before.
 
-#Poof-of-concept
 
-We'd know by trying it out.
+# A Problem?
 
-So I posted the note (you can see it
-[here](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6))
-and waited.
+While in France, one of the crew posted a note. But when I clicked on
+the coordinates referenced in the note, it took me to Heathrow
+Airport, back in London. The message didn't match the
+location.
 
-Nothing happened until the day they arrived. Then I got this email:
+Uh oh.
 
-<div style='padding: 1em; margin: 1em 2em 1em 4em;
-     background-color: #c3d2d8; font-family: sans, Arial;'>
+Does GPS work the same way in Europe? Are the coordinates getting
+cached in the app? No one has been to Spain with plnkx before.
+How would we know if it works?
+
+# The Proof
+
+We'd know by trying it out. So I posted [the
+note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6).
+And waited.
+
+Two days later, half-way around the world, they arrived at the hotel.
+But I had no way of knowing.
+
+Then I got this email:
+
+<div style="padding: 1em; margin: 1em 2em 1em 4em;
+     background-color: #d2d6d7; font-family: sans, Arial;
+     font-family: 'Libre Baskerville';" >
 
 <div style='float: right;'>[05/27/2015]</div>
 
@@ -91,7 +111,7 @@ it. <br /><br />
 
 Gorgeous hike today. 14 km.<br />
 Not too much uphill cause they took us up by bus.<br />
-Lots of downhill.
+Lots of downhill.<br />
 Sore feet.<br /><br />
 
 Miss you.  Xo
