@@ -65,7 +65,7 @@ days. So I googled the hotel, [figured
 out](http://plnkx.com/wv/find_coordinates_of_location.html) the GPS
 coordinates, and looked for something interesting to say.
 
-Here's what I found: "The city is particularly attractive to retired
+Here's what I said: "The city is particularly attractive to retired
 people, many of whom come to settle there from other areas across
 France."
 
@@ -89,9 +89,14 @@ it work at all? How would we know if it works?
 
 # The Proof
 
-We'd know by trying it out. So I posted
-[a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6),
-and then waited for them to catch up to their itinerary.
+Yes, the problem was likely that the GPS coordinates were cached,
+which is to say, a new note was posted using old location information
+before the phone could determine its new location information. GPS
+can be finicky. It's happened to me before.
+
+But all theories aside, the way to find out was to try it. So I
+posted [a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6)
+and waited for them to catch up to their itinerary.
 
 Five days later, half-way around the world, they arrived at the
 hotel. I had no way of knowing.
