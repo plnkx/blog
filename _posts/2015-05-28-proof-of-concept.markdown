@@ -18,9 +18,9 @@ One use-case for plnkx is what I call the '[Rick
 Steves](http://www.ricksteves.com/about-rick)'. Rick Steves is a
 European travel expert, guidebook author, and TV travel host.
 
-This use-case is related to travel.
+This use-case is related to travel. Hence the name.
 
-<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg/157px-Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg' style='float: right; padding: 1em;' />
+<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg/157px-Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg' style='float: right; margin: 0 0 0 1em;' />
 
 There are obvious examples of location-specfic information that would
 be helpful to travelers. Imagine, for example, approaching a
@@ -53,8 +53,9 @@ That's what I wanted to find out.
 # The Test
 
 So the test was this. Sit in Seattle, post a plnkx note to Spain, and
-wait for someone stumble upon it, real-time, in Spain. If it works,
-then that's timely information at your fingertips.
+wait for someone to find it, real-time, in Spain. If it works,
+then that's timely information at your fingertips. That's
+location-based, digital *post-anywhere-notes*. That's plnkx.
 
 
 # The Note
@@ -64,7 +65,7 @@ days. So I googled the hotel, [figured
 out](http://plnkx.com/wv/find_coordinates_of_location.html) the GPS
 coordinates, and looked for something interesting to say.
 
-This is what I found: "The city is particularly attractive to retired
+Here's what I found: "The city is particularly attractive to retired
 people, many of whom come to settle there from other areas across
 France."
 
@@ -89,15 +90,15 @@ it work at all? How would we know if it works?
 # The Proof
 
 We'd know by trying it out. So I posted
-[a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6).
-And waited.
+[a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6),
+and then waited for them to catch up to their itinerary.
 
-Two days later, half-way around the world, they arrived at the hotel.
-But I had no way of knowing.
+Five days later, half-way around the world, they arrived at the
+hotel. I had no way of knowing.
 
 Then I got this email:
 
-<div style="padding: 1em; margin: 1em 2em 1em 4em;
+<div style="padding: .5em; margin: 1em;
      background-color: #d2d6d7; font-family: sans, Arial;
      font-family: 'Libre Baskerville';" >
 
@@ -105,17 +106,13 @@ Then I got this email:
 
 Just noticed your note from the hotel park Victoria. Ha ha.<br />
 I'll share. Thought it was something I had written until I opened
-it. <br /><br />
+it. <br />
 
-Gorgeous hike today. 14 km.<br />
+Gorgeous hike today. 14 km.
 Not too much uphill cause they took us up by bus.<br />
-Lots of downhill.<br />
-Sore feet.<br /><br />
-
-Miss you.  Xo
+Lots of downhill. Sore feet.
 </div>
 
-It *works*!
-
-
 The plnkx app is currently in BETA release.
+
+But it *works*!
