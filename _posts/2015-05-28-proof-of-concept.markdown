@@ -110,8 +110,7 @@ Then I got this email:
 <div style='float: right;'>[05/27/2015]</div>
 
 Just noticed your note from the hotel park Victoria. Ha ha.<br />
-I'll share. Thought it was something I had written until I opened
-it. <br />
+I'll share.<br />
 
 Gorgeous hike today. 14 km.
 Not too much uphill cause they took us up by bus.<br />
