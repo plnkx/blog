@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dante's Inferno - my favorite plnkx note
+title:  Dante's Inferno - my favorite note
 date:  Sat Jun  6 12:33:36 PDT 2015
 ---
 
