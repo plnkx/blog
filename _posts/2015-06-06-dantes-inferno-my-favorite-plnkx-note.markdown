@@ -12,17 +12,13 @@ fact it's quit plain, pedestrian even, by design.
 It began with developing the app.
 
 Week nights I'd code. Week days I'd drive to work, to my day
-job.
-
-First, there was my standard parking place. Maybe we're not all
-creatures of habit, but I am. I park in the same spot every day.
-
-# A pedestrian proof of concept
-
-So I'd leave home, drive to the office, park in my spot, and if all
-went well, my phone would buzz. Another successful plnkx app test!
+job. I park in the same spot every day, so that's where the
+first note went. I'd pull into my spot, and my phone would buzz.
+Another successful plnkx app test!
 
 But not always.
+
+# A pedestrian proof of concept
 
 <img src='/images/abandon_all_hope.png'
      alt='make something people want' title='make something people want'
@@ -35,8 +31,9 @@ phone to get a decent signal. Lots of things can go wrong.
 But mostly, things went well. I was making progress. So I posted
 another note for me to 'find' as I walked from my car to the office.
 
-I'd drive to work, get a buzz at my regular parking spot, get out, and
-walk towards the office. Halfway there another note would pop-up. The
+That extended my daily testing:
+drive to work, get a buzz at my regular parking spot, walk towards
+the office, halfway there expect another note to appear. The second
 note read:
 
 ```
@@ -57,7 +54,7 @@ my little secret.
 
 And from then on -- every day if I was lucky -- I'd drive in to work
 and walk and walk and then right before I got to the door... my phone
-would buzz. I'd smile and look down at my phone.
+would buzz. I'd smile and look down at the note.
 
 I knew what to expect. Anticipation was half the fun. It was
 something I wanted.
