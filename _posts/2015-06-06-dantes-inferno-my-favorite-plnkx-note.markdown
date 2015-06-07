@@ -24,6 +24,10 @@ went well, my phone would buzz. Another successful plnkx app test!
 
 But not always.
 
+<img src='/images/abandon_all_hope.png'
+     alt='make something people want' title='make something people want'
+     style='float: right; margin: .5em;' />
+
 Sometimes I'd inadvertently broken the app the night before, or the
 server was down, or there were too many clouds in the sky for my
 phone to get a decent signal. Lots of things can go wrong.
