@@ -66,7 +66,7 @@ The title of the note by the door: [_Dante's Inferno_](http://en.wikipedia.org/w
 'Inferno' (Italian for "Hell") is the first part of Dante Alighieri's
 14th-century epic poem _Divine Comedy_.
 
-My one-line note is nothing more than that famous phrase:
+And the note reads:
 
 ```
 "Abandon all hope, ye who enter here."
