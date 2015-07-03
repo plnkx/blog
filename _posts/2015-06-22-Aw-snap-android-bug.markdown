@@ -49,20 +49,20 @@ App settings aside, you probably want everything to *just work*,
 without having to worry about it. Me, too.
 
 Because of that, we're working on a slimmer version of the app that
-let's -- well, okay, *requires* -- you to <span
-style='background-color: #216d99; padding-left: .5em; padding-right:
-.5em; color: #ffffff;'>Check</span> for notes. So instead of the app
+let's -- well, okay, *requires* -- you to <a
+href='http://my.plnkx.com/zapapp'><span style='background-color: #216d99; padding-left: .5em; padding-right:
+.5em; color: #ffffff;'>Check</span></a> for notes. So instead of the app
 automatically *pinging* the server periodically, you press the big
 Check-for-notes button, as-needed.
 
 This changes the dynamic of the app. Instead of being surprised by
-what's there, you have to be curious about what's there; if anything.
-Given the amount of heads-down time we see with phones, this may
-in fact be a more natural approach.
+what's there, you have to be curious about what's there. There may be
+nothing at all. Given the amount of heads-down time we see with
+phones, this may be a more natural approach.
 
-Long-term, however, I see a blending of the two approaches. Which is
+Long-term, though, I see a blending of the two approaches. Which is
 to say, when battery-life improves and plnkx coding skills mature,
-you can have your suprise and curiosity, too!
+why not have your suprise and curiosity, too!
 
 The plnkx app is currently in BETA release.
 
