@@ -1,46 +1,47 @@
 ---
 layout: post
-title: The 'Rick Steves' Proof-of-concept
+title: A 'Rick Steves' Proof-of-concept?
 date: Thu May 28 21:57:49 PDT 2015
 ---
 
+# Hiking in Spain
 
-# Walking &amp; Hiking through Spain
-
-What do you do when your spouse and friends are planning to take a
-week-long trek through Spain? Ask them to be **plnkx** beta-testers, of
+What do you do when your spouse plans a week-long trek through Spain
+with her friends? See if she can test your **plnkx** app, of
 course.
 
 
-# The 'Rick Steves' Proof-of-concept
+# Rick Steves the Travel Guy
 
-One use-case for plnkx is what I call the '[Rick
-Steves](http://www.ricksteves.com/about-rick)'. Rick Steves is a
-European travel expert, guidebook author, and TV travel host.
+One possible use-case for plnkx is travel.
+[Rick Steves](http://www.ricksteves.com/about-rick)
+is a European travel expert, guidebook author, and TV
+travel host. Hence the name for this proof-of-concept.
 
-This use-case is related to travel. Hence the name.
+<div style='float: right; margin: 0 0 0 1em; text-align: center;'>
+<img src='/images/bolt_sm.jpg'
+     title='One-hundred, ninety pound nut and bolt, one of 16 used to join sections of the generator shaft of a 75,000 kW generator - Grand Coulee Dam, 1942. This is not Rick Steves' 
+     alt='One-hundred, ninety pound nut and bolt, one of 16 used to join sections of the generator shaft of a 75,000 kW generator - Grand Coulee Dam, 1942. This is not Rick Steves' />
+<br />
+Not Rick Steves
+</div>
 
-<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg/157px-Nancy_Reagan_reopens_Statue_of_Liberty_1986.jpg' style='float: right; margin: 0 0 0 1em;' />
+For example, there's a park near the base of the Grand Coulee Dam.
+But when does the visitor center up on the hill close? You can google
+for the visitor center's web page and click around looking for
+hours-of-operation, but what if it was easier to just *plnkx it*?
+That is, click the plnkx button to see what's there.
 
-There are obvious examples of location-specfic information that would
-be helpful to travelers. Imagine, for example, approaching a
-gallery or museum and using the plnkx app to find out where you can
-park or how late they're open.
+Or suppose you're in Seattle down at Pike Place Market. What's going
+on?
 
-Or maybe you're standing at the foot of the Statue of Liberty,
-looking up at her crown. Did you know the seven spikes on her crown
-represent the seven oceans and the seven continents of the world? The
-idea was to represent the universal concept of liberty.
+Or in Bangkok wondering if pick-pockets are on the loose.
 
-Or maybe you walk down to Pike Place Market in Seattle and want to
-know what's going on right there right now. Or maybe you're wondering
-if the pick-pockets are on the loose in Bangkok? Or if there are fellow
-travelers from your country also visiting in the area, or staying at
-hotel, or sitting in the bar!
+Any travelers from the States staying in your hotel? Sitting at the
+bar?
 
-So yes, there are lots of use-cases for travel.
-
-But what about posting a note *to* Spain *from* Seattle?
+So yes they may be lot's of possible travel-related uses,
+but what about posting a note *to* Spain *from* Seattle?
 
 # Seattle to Spain
 
@@ -52,16 +53,16 @@ That's what I wanted to find out.
 
 # The Test
 
-So the test was this. Sit in Seattle, post a plnkx note to Spain, and
-wait for someone to find it, real-time, in Spain. If it works,
-then that's timely information at your fingertips. That's
-location-based, digital *post-anywhere-notes*. That's plnkx.
+So the test was this. Sit in Seattle, post a plnkx note, and
+wait for my wife to find it, real-time, in Spain. If it works, then
+that's timely information at your fingertips. That's location-based,
+digital *post-anywhere-notes*. That's plnkx.
 
 
 # The Note
 
-I knew the plnkx beta-testers would be at a certain hotel in a few
-days. So I googled the hotel, [figured
+I knew they'd be at a certain hotel in a few days. So I googled their
+hotel, [figured
 out](http://plnkx.com/wv/find_coordinates_of_location.html) the GPS
 coordinates, and looked for something interesting to say.
 
@@ -71,46 +72,49 @@ France."
 
 I was trying to be funny.
 
-And this truly would be a test. Why? Because the day before I noticed
+And this really would be a test. Why? Because the day before I noticed
 a problem.
 
 
 # A Problem?
 
-While in France, one of the crew posted a note. But when I clicked on
-the coordinates referenced in the note, it took me back to their
-airport in London. That is, the message didn't match the location.
+In France, she posted a note. But when I clicked on the coordinates
+in the note, it took me back to where they landed in London. That is,
+the message didn't match the location.
 
 Uh oh.
 
-Does GPS work the same way in Europe? Are the coordinates getting
-cached in the app? No one has been to Spain with plnkx before. Does
-it work at all? How would we know if it works?
+Plnkx has never been to Spain before. Does GPS work the same in
+Europe? Is the app caching the coordinates? Does it work
+at all? How would we know?
 
 # The Proof
 
-Yes, the problem was likely that the GPS coordinates were cached,
-which is to say, a new note was posted using old location information
-before the phone could determine its new location information. GPS
-can be finicky. It's happened to me before.
+My guess was the coordinates were getting cached in the app.
+That's supposed to be a feature, but if you save a new note before
+new coordinates are obtained, then your note is saved at your previous
+location.
 
-But all theories aside, the way to find out was to try it. So I
+Theory aside, the way to find out was to try it. So I
 posted [a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6)
-and waited for them to catch up to their itinerary.
+and waited.
 
-Five days later, half-way around the world, they arrived at the
-hotel. I had no way of knowing.
+What could go wrong?
 
-Then I got this email:
+Five days later, half-way around the world, they arrived at the hotel.
+But of course I had no way of knowing.
 
-<div style="padding: .5em; margin: 1em;
-     background-color: #d2d6d7; font-family: sans, Arial;
-     font-family: 'Libre Baskerville';" >
+Until I got this email:
 
-<div style='float: right;'>[05/27/2015]</div>
+<div style="padding: .5em .5em .5em 1em; margin: 1em;
+     border: 1px solid #cccccc;
+     background-color: #ffffff; font-family: sans, Arial;" >
 
-Just noticed your note from the hotel park Victoria. Ha ha.<br />
-I'll share.<br />
+<div style='float: right; margin-right: 1em;'>[05/27/2015]</div>
+
+Just noticed your note from the hotel park Victoria.<br />
+Ha ha.  I'll share.<br />
+<br />
 
 Gorgeous hike today. 14 km.
 Not too much uphill cause they took us up by bus.<br />
@@ -120,3 +124,6 @@ Lots of downhill. Sore feet.
 The plnkx app is currently in BETA release.
 
 But it *works*!
+
+What else can it do?
+
