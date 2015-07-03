@@ -18,36 +18,46 @@ One possible use-case for plnkx is travel.
 is a European travel expert, guidebook author, and TV
 travel host. Hence the name for this proof-of-concept.
 
-<div style='float: right; margin: 0 0 0 1em; text-align: center;'>
+<div style='float: right; margin: 0 0 0 1em; text-align: center; width: 205px;'>
 <img src='/images/bolt_sm.jpg'
      title='One-hundred, ninety pound nut and bolt, one of 16 used to join sections of the generator shaft of a 75,000 kW generator - Grand Coulee Dam, 1942. This is not Rick Steves' 
      alt='One-hundred, ninety pound nut and bolt, one of 16 used to join sections of the generator shaft of a 75,000 kW generator - Grand Coulee Dam, 1942. This is not Rick Steves' />
 <br />
-Not Rick Steves
+Not Rick Steves<br />
+<div style='font-size: 8pt; text-align: right;'>
+One-hundred, ninety pound nut and bolt, one of 16 used to join
+sections of the generator shaft of a 75,000 kW generator - Grand
+Coulee Dam, 1942</div>
 </div>
 
-For example, there's a park near the base of the Grand Coulee Dam.
-But when does the visitor center up on the hill close? You can google
-for the visitor center's web page and click around looking for
+A travel example.
+
+There's a park near the base of the [Grand Coulee
+Dam](http://www.usbr.gov/pn/grandcoulee/history/index.html). But when
+does the visitor center up on the hill close? You can google for the
+visitor center's web page and click around looking for
 hours-of-operation, but what if it was easier to just *plnkx it*?
 That is, click the plnkx button to see what's there.
 
-Or suppose you're in Seattle down at Pike Place Market. What's going
-on?
+Or suppose you're in Seattle down at Pike Place Market. Is there
+anything going on that might not have made it into the travel
+brochures?
 
-Or in Bangkok wondering if pick-pockets are on the loose.
+Perhaps you're attending a festival in Bangkok. Are the pick-pockets
+on the loose?
 
-Any travelers from the States staying in your hotel? Sitting at the
-bar?
+Visiting Europe: Any travelers from the States staying in your hotel?
+Sitting at the bar? They just might post a quick note, hoping you'll
+say hello.
 
-So yes they may be lot's of possible travel-related uses,
-but what about posting a note *to* Spain *from* Seattle?
+But what if you have information to share and you can't be there in
+person? For example, posting a note *to* Spain *from* Seattle.
 
 # Seattle to Spain
 
-**Rick Steves' Europe Inc.** publishes dozens of travel books, and updates
-them when practical. But wouldn't it be great if the information could
-be made available almost immediately?
+**Rick Steves' Europe Inc.** publishes dozens of travel books,
+and updates them when practical. But wouldn't it be great if the
+information could be updated almost immediately?
 
 That's what I wanted to find out.
 
@@ -61,19 +71,20 @@ digital *post-anywhere-notes*. That's plnkx.
 
 # The Note
 
-I knew they'd be at a certain hotel in a few days. So I googled their
-hotel, [figured
-out](http://plnkx.com/wv/find_coordinates_of_location.html) the GPS
-coordinates, and looked for something interesting to say.
+I had their itinerary so I knew they'd be at a certain hotel in a few
+days. I googled the hotel,
+[found](http://plnkx.com/wv/find_coordinates_of_location.html) the
+GPS coordinates, then looked for a curious fact or something
+interesting to say.
 
-Here's what I said: "The city is particularly attractive to retired
+Here's what I found: "The city is particularly attractive to retired
 people, many of whom come to settle there from other areas across
 France."
 
 I was trying to be funny.
 
-And this really would be a test. Why? Because the day before I noticed
-a problem.
+And this really would be a test. Why? Because the day before I had
+noticed a problem.
 
 
 # A Problem?
@@ -90,16 +101,14 @@ at all? How would we know?
 
 # The Proof
 
-My guess was the coordinates were getting cached in the app.
-That's supposed to be a feature, but if you save a new note before
-new coordinates are obtained, then your note is saved at your previous
-location.
+My guess was the coordinates were getting cached in the app. That is,
+if you save a new note before new coordinates are obtained, then your
+new note is saved at your old location.
 
 Theory aside, the way to find out was to try it. So I
-posted [a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6)
+posted [a note](http://link2.plnkx.com/id/33d3158a80b7de1269932cada1438157a27049e6),
 and waited.
 
-What could go wrong?
 
 Five days later, half-way around the world, they arrived at the hotel.
 But of course I had no way of knowing.
@@ -121,9 +130,8 @@ Not too much uphill cause they took us up by bus.<br />
 Lots of downhill. Sore feet.
 </div>
 
-The plnkx app is currently in BETA release.
-
-But it *works*!
+So it *works*!
 
 What else can it do?
 
+The plnkx app is currently in BETA release.
