@@ -13,10 +13,11 @@ course.
 
 # Rick Steves the Travel Guy
 
-One possible use-case for plnkx is travel.
+One group of people who might find plnkx useful are tourists.
 [Rick Steves](http://www.ricksteves.com/about-rick)
-is a European travel expert, guidebook author, and TV
-travel host. Hence the name for this proof-of-concept.
+is a well known tourist -- a European travel expert, guidebook
+author, and TV travel host. That's why this use-case is called the
+'Rick Steves'.
 
 <div style='float: right; margin: 0 0 0 1em; text-align: center; width: 205px;'>
 <img src='/images/bolt_sm.jpg'
@@ -30,16 +31,17 @@ sections of the generator shaft of a 75,000 kW generator - Grand
 Coulee Dam, 1942</div>
 </div>
 
-A travel example.
+For example.
 
 There's a park near the base of the [Grand Coulee
-Dam](http://www.usbr.gov/pn/grandcoulee/history/index.html). But when
-does the visitor center up on the hill close? You can google for the
-visitor center's web page and click around looking for
+Dam](http://www.usbr.gov/pn/grandcoulee/history/index.html). A short
+walk up the hill is a visitor center. When does the visitor center close?
+
+You can google for a web site and click around looking for
 hours-of-operation, but what if it was easier to just *plnkx it*?
 That is, click the plnkx button to see what's there.
 
-Or suppose you're in Seattle down at Pike Place Market. Is there
+Or suppose you're in downtown Seattle near Pike Place Market. Is there
 anything going on that might not have made it into the travel
 brochures?
 
@@ -51,7 +53,8 @@ Sitting at the bar? They just might post a quick note, hoping you'll
 say hello.
 
 But what if you have information to share and you can't be there in
-person? For example, posting a note *to* Spain *from* Seattle.
+person? For example, suppose you want to post a note *to* Spain
+*from* Seattle.
 
 # Seattle to Spain
 
@@ -130,8 +133,8 @@ Not too much uphill cause they took us up by bus.<br />
 Lots of downhill. Sore feet.
 </div>
 
-So it *works*!
-
-What else can it do?
+So it *worked*!
 
 The plnkx app is currently in BETA release.
+
+What else can it do?

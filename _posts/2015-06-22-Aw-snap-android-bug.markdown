@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Aw, snap! - Plnkx overflow menu missing
+title:  Aw, snap! - No Overflow Menu
 date:  Mon Jun 22 19:29:20 PDT 2015
 ---
 
