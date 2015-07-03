@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Aw, snap! - Overflow menu does not appear
+title:  Aw, snap! - Plnkx overflow menu missing
 date:  Mon Jun 22 19:29:20 PDT 2015
 ---
 
