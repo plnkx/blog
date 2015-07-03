@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Dante's Inferno - my favorite note
+title:  Hell - My favorite note
 date:  Sat Jun  6 12:33:36 PDT 2015
 ---
 
-# My Favorite
+# My Favorite note
 
 There's nothing unusual or even exotic about my favorite note. In
 fact it's quit plain, pedestrian even, by design.
@@ -31,13 +31,12 @@ phone to get a decent signal. Lots of things can go wrong.
 But mostly, things went well. I was making progress. So I posted
 another note for me to 'find' as I walked from my car to the office.
 
-That extended my daily testing:
-drive to work, get a buzz at my regular parking spot, walk towards
-the office, halfway there expect another note to appear. The second
-note read:
+That extended my daily testing: drive to work, wait for the buzz at
+my regular parking spot, then walk towards the office; halfway there
+another note appears:
 
 ```
-Too late to turn back now?
+"Too late to turn back now?"
 ```
 
 Well, maybe. And maybe not! Changes in management at the time made me
@@ -45,37 +44,35 @@ wonder if maybe I should.
 
 # Make something people want
 
-At any rate, the daily success of those two notes (one while parking,
-one while walking) increased my confidence in the value of the idea.
-Sadly, work-life was still questionable.
+At any rate, the daily success of those two types of notes (walking
+and parking) increased my confidence in the value of the idea. Sadly,
+work-life was still questionable.
 
-So I posted another note right by the door. At the time, it was
+So I posted another note by the door. At the time, it was
 my little secret.
 
-And from then on -- every day if I was lucky -- I'd drive in to work
-and walk and walk and then right before I got to the door... my phone
-would buzz. I'd smile and look down at the note.
+From then on -- every day if I was lucky -- I'd drive to work and get
+out of my car and walk and walk until I got to the door where my
+phone would *buzz* -- telling me there were notes in play.
 
-I knew what to expect. Anticipation was half the fun. It was
-something I wanted.
+I'd smile and look down at my phone. I knew what to expect.
+Anticipation was half the fun. It was something I wanted.
 
-# Dante's Inferno
+# Italian for Hell
 
-The title of the note by the door: [_Dante's Inferno_](http://en.wikipedia.org/wiki/Inferno_%28Dante%29).
+The title of the note: [_Dante's Inferno_](http://en.wikipedia.org/wiki/Inferno_%28Dante%29).
 
-'Inferno' (Italian for "Hell") is the first part of Dante Alighieri's
-14th-century epic poem _Divine Comedy_.
-
-And the note reads:
+The note reads:
 
 ```
 "Abandon all hope, ye who enter here."
 ```
 
-It brings a smile to my face, even today. No matter how many dozens
-of times I've seen it.
+It brings a smile to my face, even today.
 
 Everyone should go into work with a smile on their face. Don't you
 think?
 
 The plnkx app is currently in BETA release.
+
+What else can it do?
