@@ -30,5 +30,6 @@ steve.isaacson@plnkx.com
 
 <sup>1</sup>A note to [angel investors](https://en.wikipedia.org/wiki/Angel_investor). We previously described plnkx as a
 "self-funded, internet-startup" based in Seattle. We're still in
-Seattle, but we're no longer reaching for that *internet-startup*
+Seattle, but no longer reaching for that *internet-startup*
 brass ring. We plan to remain self-funded for the foreseeable future.
+We are our own portfolio.
