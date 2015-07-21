@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hell - My favorite note
+title:  Dante's Inferno - My favorite note
 date:  Sat Jun  6 12:33:36 PDT 2015
 ---
 

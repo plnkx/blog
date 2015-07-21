@@ -1,2 +1,3 @@
-# blog
-= plnkx blog =
+# plnkx blog
+
+ * http://blog.plnkx.com/
