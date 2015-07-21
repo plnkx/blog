@@ -12,13 +12,10 @@ Early on we recognized the importance of supporting the iPhone.
 However, we have extremely limited development resources,
 and so had to start with either iPhone or Android. We chose Android.
 
-iPhone users stay with me here...
+# Version 2 of the app
 
-
-# Android update
-
-Back in June we started work on a stripped-down version of the App
-for Android.
+Back in June we started work on a stripped-down version of the 
+Android app.
 The stripped-down version would use less battery power because instead of
 *pinging* the server, the app would wait for the user to press the
 <a
@@ -31,22 +28,26 @@ curious about what’s there.
 
 # HTML5 Geolocation to the rescue
 
-While we were developing this new version we realized that many
-phones now support the HTML5 Geolocation features, in particular, the
-iPhone.
+While developing the new version we realized many phones now
+support the HTML5 Geolocation features, in particular, the iPhone.
 
-So... maybe you don't need a special version of the app
+So maybe you don't need a special version of the app
 running on your phone. Maybe all you need is a web browser.
 
 # *App*-ti-tude - a natural ability to do something
 
-Our focus shifted.
+With that realization, our focus shifted.
 
-We stopped working (for now) on the stripped-down version of the
-Android app. Why? Because if you don't need an app for the iPhone,
-then maybe you don't need an app for Android phones either.
+So we stopped development on the stripped-down version of the Android
+app, and started work on a completely browser-based version.
 
-Maybe all you need is a browser.
+Why?
+
+Because if you don't need a special app on the iPhone to run plnkx,
+then you also don't need a special app on Android phones to run plnkx
+-- stripped-down or otherwise.
+
+All you need is a browser.
 
 <img src='/images/app-ti-tude.png'
      alt='plnkx iphone version' title='plnkx iphone version'
@@ -55,17 +56,17 @@ Maybe all you need is a browser.
 
 # Any browser will do
 
-It looks like, yes, any Geolocation-enhanced browser will do.
+Development resources are focused now on Geolocation-enhanced browsers.
+This includes most smart phones.
 
-Try it yourself:
+If you're reading this on a smart phone, you can try it now. Click here:
 [my.plnkx.com/iphone](http://my.plnkx.com/iphone)
-
-(The link works with Android phones, too -- if you have a
-Geolocation-enhanced browser.)
 
 # Limitations
 
-The HTML5 Geolocation libraries do not appear to be as responsive or
+But it's not all smooth sailing.
+
+The HTML5 Geolocation libraries are sometimes not as responsive or
 as accurate as the native Android app, but so far that seems not to
 be a problem.
 
