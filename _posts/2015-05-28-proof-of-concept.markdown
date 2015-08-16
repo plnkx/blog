@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A 'Rick Steves' Proof-of-concept?
+title: A Rick Steves Proof-of-concept
 date: Thu May 28 21:57:49 PDT 2015
 ---
 

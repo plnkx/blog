@@ -1,35 +1,32 @@
 ---
 layout: page
-title: About Us
+title: About plnkx
 permalink: /about/
 ---
 
-
 **Plnkx Incorporated** is a small business<sup>1</sup> based in Seattle, WA.
 
-The plnkx app was released in April 2015, available for android
-mobile phones at the [Google play
+
+
+
+The plnkx app was originally released in April 2015, available for
+android mobile phones at the [Google play
 store](https://play.google.com/store/search?q=plnkx).
+The iPhone 'web-app' ( [plnkx.com/iphone](http://plnkx.com/iphone) )
+went live July 2015.
 
-The iPhone-compatible 'app' went live on July 20th, 2015.
-See [my.plnkx.com/iphone](http://my.plnkx.com/iphone)
+New development is currently focused on the web-based versions of
+plnkx.
 
-
-Also the [my.plnkx.com](http://my.plnkx.com) site is available for
-those who don't own a smart phone, and for those businesses and
-individuals who prefer to work from a web browser.
-
-Questions? Send me an email:
-
-steve.isaacson@plnkx.com
+Questions? Send us an email: steve.isaacson@plnkx.com
 
 [http://www.plnkx.com](http://www.plnkx.com)
 
 
 ----
 
-<sup>1</sup>A note to [angel investors](https://en.wikipedia.org/wiki/Angel_investor). We previously described plnkx as a
-"self-funded, internet-startup" based in Seattle. We're still in
-Seattle, but no longer reaching for that *internet-startup*
-brass ring. We plan to remain self-funded for the foreseeable future.
-We are our own portfolio.
+<sup>1</sup>A note to [angel investors](https://en.wikipedia.org/wiki/Angel_investor). Previously we described plnkx as a
+"self-funded, internet-startup" based in Seattle, WA. We're still in
+Seattle, but no longer reaching for that *internet-startup* brass ring.
+We plan to remain self-funded for the foreseeable future. We are our
+own portfolio.
