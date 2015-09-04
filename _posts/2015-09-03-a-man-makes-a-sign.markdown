@@ -74,12 +74,12 @@ The sign tells the story of an unhappy relationship.
 Where is this place? Are they really cheats and thiefs [sic]? What
 actually happened to make this guy want to put up a sign like that?
 
-Or... maybe the wrong they done him is wholly imagined. Maybe he's
+Or maybe the wrong they done him is wholly imagined. Maybe he's
 the bad guy, impugning the reputation of good people.
+
 
 The sign is gone.
 
-Did it blow down, or was it pulled down -- by someone else?
+Is the wind to blame? Or was the sign pulled down by someone else?
 
 We'll never know.
-
