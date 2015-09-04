@@ -65,21 +65,21 @@ And days later the sign is gone.
 
 The sign tells the story of an unhappy relationship.
 
-Where is this place? Are they really cheats and thiefs [sic]? What
-actually happened to make him want to put up a sign like that?
-
-Or... maybe the wrong they done him is wholly imagined. Maybe he's
-the bad guy, impugning the reputation of good people.
-
-
 <p align='center'>
 <img src='/images/sign_04.png'
      title='cheats and thiefs'
      alt='cheats and thiefs' />
 </p>
 
-Did the sign blow down? Or was pulled down -- by someone else.
+Where is this place? Are they really cheats and thiefs [sic]? What
+actually happened to make this guy want to put up a sign like that?
+
+Or... maybe the wrong they done him is wholly imagined. Maybe he's
+the bad guy, impugning the reputation of good people.
+
+The sign is gone.
+
+Did it blow down, or was it pulled down -- by someone else?
 
 We'll never know.
 
-The sign is gone.
