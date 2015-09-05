@@ -47,13 +47,13 @@ piece of cardboard. So he better make it good.
 Once his masterpiece is complete, he finds a way to afix it to the
 pole.
 
-And then he waits, for things to change, for his sign to
+And then he waits for things to change, for his sign to
 make a _difference_.
 
-But nothing changes. Just more and more cars passing by, full of
+But nothing changes. Just more and more cars passing by full of
 drivers like you and me who barely even notice.
 
-Eventually he walks away, but his sign remains, for all to see.
+Eventually he walks away, but his sign remains for all to see.
 Bastards!
 
 The truth will out.
@@ -71,15 +71,15 @@ The sign tells the story of an unhappy relationship.
      alt='cheats and thiefs' />
 </p>
 
-Where is this place? Are they really cheats and thiefs [sic]? What
+Where is that place? Are they really cheats and thiefs [sic]? What
 actually happened to make this guy want to put up a sign like that?
 
-Or maybe the wrong they done him is wholly imagined. Maybe he's
-the bad guy, impugning the reputation of good people.
+Or maybe the wrong they done him is wholly imagined. Maybe _he's_
+the bad guy, wrongfully impugning the reputation of good people.
 
 
-The sign is gone.
+The sign is gone now.
 
-Is the wind to blame? Or was the sign pulled down by someone else?
+Was it the wind? Or did somone pull it down?
 
 We'll never know.
