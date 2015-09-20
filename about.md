@@ -14,7 +14,7 @@ Why do we care about
 post-anywhere notes? See
 [Why plnkx](http://blog.plnkx.com/2015/09/05/why-plnk.html)
 for a hint at the possible future.
-A short (2 min 41 secs)
+A short (2 min 41 sec)
 [video](https://www.youtube.com/embed/9tsvd698808?rel=0&autoplay=1)
 might also be worth your time.
 
