@@ -7,13 +7,17 @@ permalink: /about/
 
 
 _plnkx_ is the name for the website and technology that makes the
-idea of *post-anywhere notes* possible. For a brief explanation of how
-post-anywhere notes work, see
+idea of *post-anywhere notes* possible.
+
+For a brief explanation of how post-anywhere notes work, read
 [What is plnkx?](http://blog.plnkx.com/2015/05/24/plnkx-blog-%231.html)
-Why do we care about
-post-anywhere notes? See
-[Why plnkx](http://blog.plnkx.com/2015/09/05/why-plnk.html)
-for a hint at the possible future.
+Why care about post-anywhere notes?
+See [the plnkx philosophy](http://blog.plnkx.com/2015/09/29/plnkx-philosophy.html)
+for a short and sweet explanation.
+And the blog post [Why plnkx](http://blog.plnkx.com/2015/09/05/why-plnk.html)
+hints at the possible future.
+
+
 A short (2 min 41 sec)
 [video](https://www.youtube.com/embed/9tsvd698808?rel=0&autoplay=1)
 might also be worth your time.
