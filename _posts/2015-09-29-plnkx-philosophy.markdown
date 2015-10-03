@@ -10,11 +10,11 @@ you and me
 
 # What
 
-location-specific information at our fingertips
+location-specific information at your fingertips
 
 # Where
 
-ever we have internet access and GPS coordinates
+ever you have internet access and GPS coordinates
 
 # When
 
@@ -22,7 +22,7 @@ you want
 
 # Why
 
-so we can share
+to share what you know, help others, maybe even help yourself
 
 # How
 
