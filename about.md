@@ -12,7 +12,7 @@ idea of *post-anywhere notes* possible.
 For a brief explanation of how post-anywhere notes work, read
 [What is plnkx?](http://blog.plnkx.com/2015/05/24/plnkx-blog-%231.html)
 Why care about post-anywhere notes?
-See [the plnkx philosophy](http://blog.plnkx.com/2015/09/29/plnkx-philosophy.html)
+See [The plnkx philosophy](http://blog.plnkx.com/2015/09/29/plnkx-philosophy.html)
 for a short and sweet explanation.
 And the blog post [Why plnkx](http://blog.plnkx.com/2015/09/05/why-plnk.html)
 hints at the possible future.
