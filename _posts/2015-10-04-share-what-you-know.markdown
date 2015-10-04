@@ -17,7 +17,7 @@ the secret code that unlocks the bathroom door.
 
 A bright sunny day and families galore come out to play in the park.
 Unsuspecting drivers park on the wrong side of the road. While the
-kids splash in the wading pool, a meter maid puts tickets on their
+kids splash in the wading pool, a meter maid puts tickets on car
 windshields. A sad way to end the sunny day. A simple sign (actual or
 electronic) would have sufficed.
 
@@ -30,18 +30,21 @@ Tuesday night a guy sings and plays guitar at a local bar. Friday
 night a woman wants to know who that was.
 
 A couple is traveling in Europe, staying in a certain hotel. They
-learn the Rick Steves tour group was just there. Are they any
-warnings or recommendations from the people in that group?
+learn the Rick Steves tour group was just there. Are there any
+warnings or recommendations from people in that group?
 
-A group of sorority girls sip margaritas on a beach in Mexico. Any
-other tri delt chapters here?
+Sorority girls sip margaritas on a beach in Mexico. Any other tri
+delt chapters here?
 
-We're new here. Any good resources for LGBT kids and their families?
+We're new in town. Any good resources for LGBT kids and their
+families?
+
+And so on.
 
 # Share What You Know
 
-See or do something that might be of interest to others? Share what
-you know.
+See or do something location-specific that might be of interest to
+others? If so, share what you know.
 
 We have the technology
 
