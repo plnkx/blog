@@ -2,12 +2,13 @@
 title: blog.plnkx.com
 email: steve.isaacson@plnkx.com
 description: > # this means to ignore newlines until "baseurl:"
-  Plnkx let's you read and create location-based, digital
+  <a href='https://www.plnkx.com'>Plnkx</a>
+  let's you read and create location-based, digital
   <em>post-anywhere-notes</em>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.plnkx.com" # the base hostname & protocol for your site
-twitter_username: plnkxtweets
-github_username:  plnkx
+###stevei twitter_username: plnkxtweets
+###stevei github_username:  plnkx
 
 # Build settings
 markdown: kramdown
