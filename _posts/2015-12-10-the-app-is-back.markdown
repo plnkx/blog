@@ -15,7 +15,7 @@ First, make it obvious that plnkx is all about _notes_. I thought
 that was already painfully obvious, but apparently not.
 
 To that end, the home page now sports the
-"<a href='/2015/11/12/im-a-plnkx-note.html'>I'm a plnkx note</a>" graphic.
+"<a href='/2015/11/13/im-a-plnkx-note.html'>I'm a plnkx note</a>" graphic.
 
 <img src='/images/yellow_plnkx_note.jpg'
      style='margin-left: 4em; max-width: 30%;'
